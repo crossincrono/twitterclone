@@ -5,7 +5,7 @@ To make the project simple, we do not have a sign/login function.
 So there are not user accounts and follow function. You can challenge after you finish the course.
 Check out [LIVE DEMO here!!] (https://bounthavy-twitter-clone.herokuapp.com/)
 # Screenshot
-![Screenshot 2022-02-09 at 11 42 35 AM]![image](https://user-images.githubusercontent.com/59497672/168450806-93cfd5e1-f495-482b-8222-9fdaf19d5ce0.png)
+![Screenshot 2022-02-09 at 11 42 35 AM]![image]![image](https://user-images.githubusercontent.com/59497672/168450869-2efb9ece-0fe1-44b0-85d2-98bf618bac40.png)
 
 # Tech used
 * Html
